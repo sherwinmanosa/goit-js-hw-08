@@ -2,5 +2,5 @@
         <a class = 'gallery__item' href="${e}">
             <img class="gallery__image" src="${t}" alt="${o}"/>
         </a>    
-    `).join("");l.insertAdjacentHTML("beforeend",d),new SimpleLightbox(".gallery a",{captionsData:"alt",captionDelay:250}).on("show.SimpleLightbox"),console.log("hello")}();
-//# sourceMappingURL=01-gallery.b996c363.js.map
+    `).join("");l.insertAdjacentHTML("beforeend",d),new SimpleLightbox(".gallery a",{captionsData:"alt",captionDelay:250}).on("show.SimpleLightbox")}();
+//# sourceMappingURL=01-gallery.de4bd233.js.map
