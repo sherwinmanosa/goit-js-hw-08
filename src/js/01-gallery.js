@@ -26,5 +26,3 @@ const galleryHandler = new SimpleLightbox('.gallery a', {
   captionDelay: 250,
 });
 galleryHandler.on('show.SimpleLightbox');
-
-console.log('hello');
